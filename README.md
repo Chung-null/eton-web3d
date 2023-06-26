@@ -9,3 +9,5 @@
 # Install:
 1. git clone: https://github.com/Chung-null/eton-web3d.git
 2. Run: npm install -> npm run build -> npm start
+### Truy cập nhanh
+- https://dev-web3d-api.eton.vn/hello9
