@@ -12,4 +12,4 @@
 ### Truy cập nhanh
 - https://dev-web3d-api.eton.vn/hello9
 ### Xem data
-- https://dev-web3d-api.eton.vn/
+- https://dev-web3d-api.eton.vn/admin/content
