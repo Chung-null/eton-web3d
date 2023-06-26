@@ -7,5 +7,5 @@
 ### Lớp: CQ.60.CNTT
 
 # Install:
-1. git clone: 
+1. git clone: https://github.com/Chung-null/eton-web3d.git
 2. Run: npm install -> npm run build -> npm start
