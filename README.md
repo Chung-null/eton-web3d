@@ -11,3 +11,5 @@
 2. Run: npm install -> npm run build -> npm start
 ### Truy cập nhanh
 - https://dev-web3d-api.eton.vn/hello9
+### Xem data
+- https://dev-web3d-api.eton.vn/
