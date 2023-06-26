@@ -72,7 +72,7 @@ export async function makeWare(): Promise<Mesh> {
         }
 
         position = positionWarehouse.x + 4;
-        let resultPost = await handler.postConveyor(positionWarehouse.x, positionWarehouse.y, positionWarehouse.z)
+        let resultPost = await handler.postWarehouse(positionWarehouse.x, positionWarehouse.y, positionWarehouse.z)
         if (resultPost.status == 201) {
             let ware = await createWarehouse(resultPost.content.nid, positionWarehouse);
             wares.push(ware)
